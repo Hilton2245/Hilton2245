@@ -1,8 +1,8 @@
 - 👋 Eae, eu sou Hilton
-- 👀 Estou interessado em ... passar no curso
+- 👀 Estou interessado em ... me formar
 - 🌱 Atualmente aprendendo Java
-- 💞️ Procurando trabalhar em ... alguma coisa?
-- 📫 Como falar comigo: não fala =/
+- 💞️ Procurando trabalhar em ... desenvolvimento de aplicações.
+- 📫 Como me contatar: hiltonalmeida323@gmail.com
 
 <!---
 Hilton2245/Hilton2245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
